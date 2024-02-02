@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<h1 text-align: center>LUIZ FELIPE</h1>
 <h1 style="text-align: center;">LUIZ FELIPE</h1>
 
 
